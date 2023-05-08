@@ -52,7 +52,6 @@ namespace CreativeUrge.Selection
 
 		public void SetTarget(ISelectable selectable)
 		{
-			Debug.Log("setting target: " + selectable);
 			targetSelectable = selectable;
 
 			SetVisibility(selectable != null);
