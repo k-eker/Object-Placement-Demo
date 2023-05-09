@@ -20,8 +20,6 @@ I first analyzed the requirements and planned the architecture. I chose to go wi
 
 To open this project, you'll need to install Unity version 2021.3.19.
 
-Alternatively, you can install the apk file on an Android device. The apk file is located at **Builds/Demo.apk**
-
 ## Challenges
 
 Here is some of the challenges I faced while working on this project:
